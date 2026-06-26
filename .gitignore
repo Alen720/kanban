@@ -1,10 +1,2 @@
-# Python
-server/venv/
-__pycache__/
-
 # React
 client/node_modules/
-
-# SQLite
-*.db
-*.sqlite3
